@@ -1,0 +1,31 @@
+body {
+    background-color: #ffffff;
+    margin: 0%;
+    width: 99.8%;
+    padding: 0%;
+    color: black;
+    padding-top: 10%;
+    font-size: 200%;
+}
+
+#action_button {
+    border: navy;
+    background-color: navy;
+    color: white;
+    font-size: 200%;
+    height: 15%;
+    width: 20%;
+    border-radius: 15%;
+    border: 8px solid black;
+    margin-top: 2%;
+}
+
+#lightShotLogo {
+    width: 6%;
+    height: 2%;
+}
+
+#main_heading {
+    border-bottom: 5px solid black;
+    width: 40%;
+}
