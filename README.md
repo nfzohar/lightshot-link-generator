@@ -5,5 +5,5 @@ This is a small app that generates random image ids and redirects to corespondin
 
 Idea: https://youtu.be/05K5glVCwis?t=438
 
-A PHP and JavaScript versions are avaliable.
+A PHP and JavaScript version are avaliable.
 
